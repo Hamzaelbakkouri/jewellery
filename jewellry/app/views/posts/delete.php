@@ -1,3 +1,0 @@
-<?php
-
- // We didn't make any changes here, we just delete the post without any confirmation ... 

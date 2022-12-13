@@ -11,15 +11,15 @@ $data->insertIntoItems();
 
 <form class="add_item" action="" method="POST">
   <div class="item">
-    <label class="input-group-text label_item" for="name">Name Of Item</label>
+    <label class="input-group-text label_item" for="name">Product Name </label>
     <input type="text" class="form-control" name="name" placeholder="Name Of Item" required="required">
   </div>
   <div class="item">
-    <label class="input-group-text label_item" for="price">Price Of Item</label>
+    <label class="input-group-text label_item" for="price">Price </label>
     <input type="number" class="form-control" name="price" placeholder="Price Of Item" required="required">
   </div>
   <div class="item">
-    <label class="input-group-text label_item" for="image">Picture Of Item</label>
+    <label class="input-group-text label_item" for="image">IMAGE</label>
     <input class="form-control input_item" type="file" name="image" accept="image/png, image/jpeg, image/jpg"
       required="required">
   </div>

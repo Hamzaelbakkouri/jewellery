@@ -13,11 +13,11 @@ $items = $itemscon->selectItems();
     <div class="table-responsive">
         <table class="main-table text-center table table-bordered">
             <tr>
-                <td>#ID</td>
-                <td>Item Name</td>
-                <td>Price</td>
-                <td>Image</td>
-                <td>Control</td>
+                <td>ID</td>
+                <td>PRODUCT NAME</td>
+                <td>PRICE</td>
+                <td>IMAGE</td>
+                <td>CONTROL</td>
             </tr>
             <?php
             foreach ($items as $item) {
@@ -37,7 +37,7 @@ $items = $itemscon->selectItems();
         </table>
     </div>
     <a href="Add" class="btn btn-sm btn-primary">
-        <i class="fa fa-plus"></i> New Item
+        <i class="fa fa-plus"></i> ADD product
     </a>
 </div>
 

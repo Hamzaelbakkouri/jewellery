@@ -1,5 +1,7 @@
-<IfModule mod_rewrite.c>
+Options All -Indexes
+
 RewriteEngine On
-RewriteRule ^$ public/$1 [l]
-RewriteRule ^(.*)$ public/$1 [l]
-</IfModule>
+
+RewriteBase /jewellery/
+
+RewriteRule ^([-a-zA-Z0-9]+)$ index.php?page=$1

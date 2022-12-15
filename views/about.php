@@ -11,7 +11,7 @@
                 <div class="col-md-6">
                     <div class="detail-box">
                         <div class="heading_container">
-                            <h2>About M.R.A Shop Shop</h2>
+                            <h2>About jewellery Shop</h2>
                         </div>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

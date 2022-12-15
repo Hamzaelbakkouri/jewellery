@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container">
             <a class="navbar-brand" href="home">
-                <img src="<?= $image ?>logo.png" alt="logo" />
+                <img src="<?= $image ?>hh.png" alt="logo" />
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"

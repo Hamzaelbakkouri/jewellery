@@ -5,25 +5,43 @@
     require_once './controllers/ItemsControllers.php';
     require_once './controllers/UsersControllers.php';?>
     
-    <div class="contact" name="name">
-        <div class="titre_contact">
-            <h1>
-                Contact-nous
-            </h1>
-        </div>
-        <div class="formulaire">
-            <div class="image_formulaire">
-                <img src="<?= $image ?>contact nous.png" style="width: 100%;height: 100%;" alt="contact">
-            </div>
-            <form action="" class="form">
-                <input type="text" placeholder="Entrer votre Nom et Prénom">
-                <input type="email" placeholder="Entrer votre Email">
-                <input type="number" placeholder="Entrer votre N ° de Telephone">
-                <textarea placeholder="Entrer votre Message"></textarea>
-                <input type="submit" class="submit" value="Envoyer">
-            </form>
+    <div class="container">
+	<div class="row">
+			<h1>contact us</h1>
+	</div>
+	<div class="row">
+			<h4 style="text-align:center">We'd love to hear from you!</h4>
+	</div>
+	<div class="row input-container">
+			<div class="col-xs-12">
+				<div class="styled-input wide">
+					<input type="text" required />
+					<label>Name</label> 
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<div class="styled-input">
+					<input type="text" required />
+					<label>Email</label> 
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<div class="styled-input" style="float:right;">
+					<input type="text" required />
+					<label>Phone Number</label> 
+				</div>
+			</div>
+			<div class="col-xs-12">
+				<div class="styled-input wide">
+					<textarea required></textarea>
+					<label>Message</label>
+				</div>
+			</div>
+			<div class="col-xs-12">
+				<div class="btn-lrg submit-btn">Send Message</div>
+			</div>
+	</div>
+</div>
 
-        </div>
-    </div>
     <?php include 'includes/footer.php' ?>
 </div>

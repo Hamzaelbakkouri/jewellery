@@ -23,8 +23,8 @@ include 'header.php';
 
 <div class="astronaut">
   <div class="astronaut__backpack"></div>
-  <div class="astronaut__body"></div>
-  <div class="astronaut__body__chest"></div>
+  <div class="astronaut__body2"></div>
+  <div class="astronaut__body2__chest"></div>
   <div class="astronaut__arm-left1"></div>
   <div class="astronaut__arm-left2"></div>
   <div class="astronaut__arm-right1"></div>

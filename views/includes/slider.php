@@ -7,16 +7,15 @@
       <span> 01 </span>
       <hr />
       <span class="jwel">
-        M <br />
-        . <br />
-        R <br />
-        . <br />
-        A <br />
-        | <br />
-        S <br />
-        h <br />
-        o <br />
-        p
+        j <br />
+        e <br />
+        w <br />
+        e <br />
+        l <br />
+        l <br />
+        e <br />
+        r <br />
+        y <br />
       </span>
       <hr />
       <span> 02 </span>
@@ -36,7 +35,7 @@
                   <span> New Collection</span>
                   <hr />
                 </h2>
-                <h1>M.R.A Shop</h1>
+                <h1>jewellery Shop</h1>
                 <p>
                   Lorem ipsum dolor sit amet consec tetur adipiscing elit
                   elit at felislacinia aptent taciti sociosqu ad litora
@@ -65,7 +64,7 @@
                   <span> New Collection</span>
                   <hr />
                 </h2>
-                <h1>M.R.A Shop</h1>
+                <h1>jewellery Shop</h1>
                 <p>
                   Lorem ipsum dolor sit amet consec tetur adipiscing elit
                   elit at felislacinia aptent taciti sociosqu ad litora
@@ -94,7 +93,7 @@
                   <span> New Collection</span>
                   <hr />
                 </h2>
-                <h1>M.R.A Shop</h1>
+                <h1>jewellery Shop</h1>
                 <p>
                   Lorem ipsum dolor sit amet consec tetur adipiscing elit
                   elit at felislacinia aptent taciti sociosqu ad litora

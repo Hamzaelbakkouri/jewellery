@@ -19,7 +19,7 @@ $font = 'layout/fonts/'; // Font Directory
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>M.R.A Shop</title>
+  <title>jewellery Shop</title>
 
   <!-- slider stylesheet -->
   <link rel="stylesheet" type="text/css" href="<?= $css ?>owl.carousel.min.css" />

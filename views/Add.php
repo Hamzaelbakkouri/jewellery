@@ -19,7 +19,7 @@ $data->insertIntoItems();
     <input type="number" class="form-control" name="price" placeholder="Price Of Item" required="required">
   </div>
   <div class="item">
-    <label class="input-group-text label_item" for="image">IMAGE</label>
+    <label class="input-group-text label_item" for="image">Image</label>
     <input class="form-control input_item" type="file" name="image" accept="image/png, image/jpeg, image/jpg"
       required="required">
   </div>

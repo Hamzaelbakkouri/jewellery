@@ -6,5 +6,5 @@ define('SITE_NAME', 'Luxury Gems');
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'bijouxdb');
+define('DB_NAME', 'jewllery store');
 ?>

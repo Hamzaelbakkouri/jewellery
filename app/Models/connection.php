@@ -5,7 +5,7 @@ class connection {
     protected static $servername = "localhost";
     protected static $username = "root";
     protected static $password = "";
-    protected static $db = "jewllery store";
+    protected static $db = "bijouxdb";
 
     function connection(){
         $conn = mysqli_connect(self::$servername,self::$username,self::$password,self::$db);

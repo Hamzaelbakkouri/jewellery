@@ -11,9 +11,9 @@
   <meta name="Description" content="Jewellery store for selling Jewellery like rings and necklaces">
   <meta name="Keyword" content="Jewellery store,rings,necklaces">
   <meta name="author" content="Jewellery store">
-  <link rel="shortcut icon" href="../app/Views/images/logo.png" type="image/x-icon">
+  <link rel="shortcut icon" href="../app/Views/images/hh.png" type="image/x-icon">
 
-  <title>Luxury Gems</title>
+  <title>jewellery_app</title>
 
   <!-- slider stylesheet -->
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
@@ -37,9 +37,9 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="home">
-            <img src="../app/Views/images/logo.png" alt="">
+            <img src="../app/Views/images/hh.png" alt="">
             <span>
-              Luxury Gems
+              jewellery_app
             </span>
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -129,9 +129,9 @@
           <div class="col-md-3">
             <div class="info_logo">
               <a href="home">
-                <img src="../app/Views/images/logo.png" alt="">
+                <img src="../app/Views/images/hh.png" alt="">
                 <span>
-                Luxury Gems
+                jewellery_app
                 </span>
               </a>
             </div>

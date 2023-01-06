@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="../app/Views/images/logo.png" type="image/x-icon">
-    <title>Luxury Gems</title>
+    <link rel="shortcut icon" href="../app/Views/images/hh.png" type="image/x-icon">
+    <title>jewellery_app</title>
     <link rel="stylesheet" href="../app/Views/css/bootstrap.css">
     <link rel="stylesheet" href="../app/Views/css/style.css">
     <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>

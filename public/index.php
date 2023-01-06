@@ -23,10 +23,10 @@ if(isset($_GET['page'])){
     }elseif(strlen($_SERVER['REQUEST_URI'])===strlen("/public/delete")){
         header('location: dachBoard');
     }elseif(strpos($_GET['page'], "editpage") !== false){
-        $ID = str_replace("/public/editpage?id-product=","",$_SERVER['REQUEST_URI']);
+        $ID = str_replace("/jewellery_app/public/editpage?id-product=","",$_SERVER['REQUEST_URI']);
         $home->edit($ID);
     }elseif(strpos($_GET['page'], "delete") !== false){
-        $ID = str_replace("/public/delete?id-product=","",$_SERVER['REQUEST_URI']);
+        $ID = str_replace("/jewellery_app/public/delete?id-product=","",$_SERVER['REQUEST_URI']);
         $home->delete($ID);
     }
     elseif(in_array($_GET['page'],$pages)){

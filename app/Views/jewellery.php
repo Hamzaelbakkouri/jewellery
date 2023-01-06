@@ -11,9 +11,9 @@
   <meta name="Description" content="Jewellery store for selling Jewellery like rings and necklaces">
   <meta name="Keyword" content="Jewellery store,rings,necklaces">
   <meta name="author" content="Jewellery store">
-  <link rel="shortcut icon" href="../app/Views/images/logo.png" type="image/x-icon">
+  <link rel="shortcut icon" href="../app/Views/images/hh.png" type="image/x-icon">
 
-  <title>Luxury Gems</title>
+  <title>jewellery_app</title>
 
   <!-- slider stylesheet -->
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
@@ -40,9 +40,9 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="home">
-            <img src="../app/Views/images/logo.png" alt="">
+            <img src="../app/Views/images/hh.png" alt="">
             <span>
-              Luxury Gems
+              jewellery_app
             </span>
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -67,81 +67,18 @@
             </div>
             <div class="quote_btn-container ">
             <div class="username"><?php echo $_SESSION['user']?></div>
-              <a>
-                <img id="icon" src="../app/Views/images/cart.png" alt="icon" onclick="toggle()">
-                <img id="icon0" src="../app/Views/images/cart.png" alt="icon" onclick="toggle0()">
-                <div id="cart_number"></div>
-              </a>
+              
             </div>
           </div>
         </nav>
     </header>
     <!-- end header section -->
   </div>
-  <div class="carte">
-          <div class="cnt">
-          <div id="bill"></div>
-          <div class="cnt1" >The Total : <span id="total"></span><a class="button1" onclick="order()">Confirm</a></div>
-          </div>
-          </div>
+  
         </div>
   </div>
   <!-- item section -->
-  <div class="bascket">The total : <span style="color:white ;" id="total0"></span><a class="button" href="" onclick="order()">Confirm</a><img src="../app/Views/images/picnic-basket.png" alt="bascket" id="bascket0" onclick="display0()"></div>
-  <img src="../app/Views/images/picnic-basket.png" alt="bascket" id="bascket" onclick="display()">
-
-  <div class="item_section layout_padding2">
-    <div class="container">
-      <div class="item_container">
-        <div class="box">
-          <div class="price">
-            <h6>
-              Best PRICE
-            </h6>
-          </div>
-          <div class="img-box">
-            <img src="../app/Views/images/i-1.png" alt="">
-          </div>
-          <div class="name">
-            <h5>
-              Bracelet
-            </h5>
-          </div>
-        </div>
-        <div class="box">
-          <div class="price">
-            <h6>
-              Best PRICE
-            </h6>
-          </div>
-          <div class="img-box">
-            <img src="../app/Views/images/i-2.png" alt="">
-          </div>
-          <div class="name">
-            <h5>
-              Ring
-            </h5>
-          </div>
-        </div>
-        <div class="box">
-          <div class="price">
-            <h6>
-              Best PRICE
-            </h6>
-          </div>
-          <div class="img-box">
-            <img src="../app/Views/images/i-3.png" alt="">
-          </div>
-          <div class="name">
-            <h5>
-              Earings
-            </h5>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
+  
   <!-- end item section -->
 
 
@@ -182,9 +119,9 @@
           <div class="col-md-3">
             <div class="info_logo">
               <a href="home">
-                <img src="../app/Views/images/logo.png" alt="">
+                <img src="../app/Views/images/hh.png" alt="">
                 <span>
-                  Luxury Gems
+                  jewellery_app
                 </span>
               </a>
             </div>
